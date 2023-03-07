@@ -1,16 +1,13 @@
-### Hi there 👋
+¡Hola! mi nombre es Alvaro Enrique Periñan Hernandez.
 
-<!--
-**Alvaroph22/Alvaroph22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente, estudio y desarrollo proyectos web a pequeñas y medianas empresas. Soy una persona curiosa por lo que aprender hace parte de mi día a día, me motivan      los desafíos y busco oportunidades laborales en el área de desarrollo de software donde pueda poner en práctica mis habilidades y seguir adquiriendo conocimientos.
+   
+-⚡ Skills ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Ingles B1 | JAVA | Python | Linux | Git y Git Hub | Azure | AWS | Despliegue de Aplicaciones | HTML | CSS | JavaScript | SQL | Flask | Django |
+
+- 📫 Contactame: 
+    
+    alvaroperinan@gmail.com
+    linkedin.com/in/alvaro-enrique-periñan-hernandez-289219220
